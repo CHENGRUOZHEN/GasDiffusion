@@ -1,4 +1,4 @@
-# GasDiffusion
+# GasDiffusionVisualization
 
 The project named 'Gasvisualization' simulates an example of the long range natural gas diffusion. The development platform for the project is Microsoft Visual Studio 2010.
 
